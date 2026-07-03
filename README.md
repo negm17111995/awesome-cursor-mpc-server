@@ -110,3 +110,7 @@ Found a bug or need help? Open an issue with:
 I'll be honest though, this is a tutorial demo, and not a production-ready tool so I likely won't be fixing issues. But feel free to fork it and make it your own!
 
 Made with ❤️ by developers, for developers
+
+
+## MCP Servers
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
